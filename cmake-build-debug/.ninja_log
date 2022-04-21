@@ -1,0 +1,8 @@
+# ninja log v5
+0	765	6722278555799346	CMakeFiles/cmake-build-debug.dir/List/List.cpp.obj	4ad02e5ba3706e44
+7	258	6722279528338899	cmake-build-debug.exe	cc748300376b9fd8
+0	275	6722283334170492	build.ninja	a96b13bf1f1a2003
+22	691	6722279186662234	CMakeFiles/cmake-build-debug.dir/List/linkList.cpp.obj	33b643a5a3b24fae
+7	847	6722279188190295	CMakeFiles/cmake-build-debug.dir/string/Kmp.cpp.obj	79edcf763115d6df
+1	853	6722283472893076	CMakeFiles/Kmp.dir/string/Kmp.cpp.obj	f24316ce5b232a69
+857	1161	6722283475901392	Kmp.exe	3783448c0f607659
