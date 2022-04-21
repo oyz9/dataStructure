@@ -1,4 +1,0 @@
-D:/c++/dataStructure/cmake-build-debug/CMakeFiles/Kmp.dir
-D:/c++/dataStructure/cmake-build-debug/CMakeFiles/cmake-build-debug.dir
-D:/c++/dataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/c++/dataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
